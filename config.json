@@ -1,0 +1,34 @@
+{
+  "proxies": {
+
+  },
+  "headers": {
+
+  },
+
+  "OpenAI_API_KEY": "",
+  "OpenAI_Model": "",
+  "resume_path": "C:\\Users\\Coding\\Downloads\\Data_Resume_06202024.pdf",
+
+  "search_queries": [    
+    {"keywords": "Data analyst", "location": "Toronto", "f_WT": ""},
+    {"keywords": "Data Scientist", "location": "USA", "f_WT": "2"}
+
+  ],
+  "desc_words": [
+    "MySQL", "Python", "automation", "data", "analyst", "scientist", "engineer"
+  ],
+  "title_exclude": ["frontend", "fron end", "game"],
+  "title_include": ["python", "developer", "backend", "BE", "engineer"],
+  "company_exclude": ["ClickJobs.io"],
+  "languages": ["en"],
+  "timespan": "r84600",
+  "jobs_tablename": "jobs",
+  "filtered_jobs_tablename": "filtered_jobs",
+  "db_path": "./data/my_database.db",
+  "pages_to_scrape": 10,
+  "rounds": 1,
+  "days_to_scrape": 10,
+  "app_table": "jobs"
+  }
+  
