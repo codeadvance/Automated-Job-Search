@@ -1,4 +1,8 @@
-# UPDATE November 2023
+#This is my project to attempt to use automation to tailor to my job search. 
+
+Credits: The original source is from @https://github.com/cwwmbm/linkedinscraper
+
+#UPDATE November 2023
 I've implemented a website version of this that doesn't require any script launches. https://jobbix.co
 ![Screenshot image](./screenshot/jobbix_screenshot.png)
 
